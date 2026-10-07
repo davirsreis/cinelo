@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/davirsreis/cinelo/releases/latest"><b>⬇ Baixar para Windows</b></a>
+  <a href="https://github.com/davirsreis/cinelo/releases/latest/download/Cinelo-Setup.exe"><b>⬇ Baixar para Windows</b></a>
 </p>
 
 ---
@@ -31,13 +31,18 @@
 
 ## Como instalar
 
-1. Baixe o **Cinelo-windows.zip** na [última versão](https://github.com/davirsreis/cinelo/releases/latest).
-2. Extraia a pasta numa pasta sua, por exemplo **Documentos** (não em "Arquivos de Programas").
-3. Abra o **Cinelo.exe**.
+1. Baixe o **[Cinelo-Setup.exe](https://github.com/davirsreis/cinelo/releases/latest/download/Cinelo-Setup.exe)** e abra.
+2. Avance o instalador. Se quiser, marque **Criar atalho na área de trabalho**.
+3. Pronto: o Cinelo fica no menu Iniciar (e na área de trabalho, se marcou).
 
 Se o Windows mostrar "O Windows protegeu o computador", clique em **Mais informações → Executar
 assim mesmo**. O aviso aparece porque o app não é assinado digitalmente; não é vírus. Se o Windows
 perguntar sobre o firewall, clique em **Permitir**.
+
+Não precisa de senha de administrador. Para desinstalar: **Configurações → Aplicativos →
+Aplicativos instalados → Cinelo**. Prefere sem instalar? Baixe o **Cinelo-windows.zip** na
+[última versão](https://github.com/davirsreis/cinelo/releases/latest), extraia numa pasta sua
+(ex.: Documentos) e abra o **Cinelo.exe**.
 
 **Precisa de:** Windows 10 (versão 2004 ou mais nova) ou Windows 11.
 
@@ -60,7 +65,7 @@ tela**. Quem quiser ver clica em **Assistir**.
 | A tela transmitida não aparece para um amigo (na mesma casa funciona) | O roteador de alguém bloqueia a conexão direta. Instalem o [Radmin VPN](https://www.radmin-vpn.com/) (grátis), entrem todos na mesma rede dele e tentem de novo. |
 | A transmissão está sem som | Ao escolher a tela inteira, deixe marcado "Compartilhar áudio do sistema". Ao escolher uma janela, confira se aquele programa está mesmo tocando som. |
 | "O Windows protegeu o computador" | **Mais informações → Executar assim mesmo.** |
-| O app não abre | Apague a pasta, clique com o botão direito no .zip → **Propriedades** → marque **Desbloquear** → **OK**, e extraia de novo. |
+| O app não abre | Instale pelo **Cinelo-Setup.exe**. Se usou o .zip: apague a pasta, clique com o botão direito no .zip → **Propriedades** → marque **Desbloquear** → **OK**, e extraia de novo. |
 
 ## Privacidade
 
